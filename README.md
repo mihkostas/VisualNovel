@@ -1,6 +1,6 @@
- Opening a Dev C++ Project
- Launch Dev C++
-## Open the Dev C++ IDE.###
+## Opening a Dev C++ Project ##
+Launch Dev C++
+Open the Dev C++ IDE.
 Open Project File (.dev)
 Go to File > Open Project or File...
 Navigate to your project directory.
